@@ -13,7 +13,7 @@ Website desenvolvido para criação de diversos tipos de Quizzes. Use-o para jog
 <br>
 
 <p align="center">
-  <img alt="./public/quiz.png" src="Infinite-Quiz" width="100%">
+  <img alt="infiniteQuiz" src=".github/quiz.png" width="100%">
 </p>
 
 ## :ice_cream: Tecnologias
