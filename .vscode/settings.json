@@ -1,0 +1,24 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "apc.font.family": "",
+
+    "apc.header": {
+      "height": 36
+    },
+    "apc.listRow": {
+      "height": 24
+    },
+    "apc.stylesheet": {
+      ".title-label > h2": "display: none",
+      ".editor-actions": "display: none",
+      ".nosidebar .inline-tabs-placeholder": "width: 75px",
+      ".pane-header": "padding: 0 8px",
+      ".pane-body": "padding: 8px",
+      ".split-view-view:first-child .pane-header": "display: none !important;",
+      ".monaco-list-row": "border-radius: 4px;",
+      ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+    },
+}
