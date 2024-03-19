@@ -34,4 +34,4 @@ Esse projeto está sob a licença da Rocketseat.
 
 ---
 
-Feito com :heartpulse: by Paulo Victor (pauloVPF)<br>
+Feito com :heartpulse: por Paulo Victor<br>
